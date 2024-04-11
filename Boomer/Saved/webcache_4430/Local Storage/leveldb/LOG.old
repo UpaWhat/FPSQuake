@@ -1,2 +1,3 @@
-2024/03/18-10:52:24.148 3180 Creating DB C:/Users/Upa/Documents/GitHub/FPSQuake/Boomer/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/03/18-10:52:24.168 3180 Reusing MANIFEST C:/Users/Upa/Documents/GitHub/FPSQuake/Boomer/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/10-19:43:48.642 5a58 Reusing MANIFEST C:/Users/Upa/Documents/GitHub/FPSQuake/Boomer/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/10-19:43:48.648 5a58 Recovering log #3
+2024/04/10-19:43:48.649 5a58 Reusing old log C:/Users/Upa/Documents/GitHub/FPSQuake/Boomer/Saved/webcache_4430\Local Storage\leveldb/000003.log 
